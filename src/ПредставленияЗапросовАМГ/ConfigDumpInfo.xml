@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.СтруктураПредприятия" id="d5d3f34d-6197-49c3-ad63-3f3508480743" configVersion="1ff0471815f09ebcdb8591edb3fed14e26914304"/>
+		<Metadata name="CommonModule.ЗарплатаКадрыОбщиеНаборыДанныхРасширенный" id="f26ef10a-6d4d-418f-8ab2-1e2b33501f07" configVersion="7795f5ed6860ebff70886941111dca92387e8e7f"/>
+		<Metadata name="CommonModule.ЗарплатаКадрыОбщиеНаборыДанныхРасширенный.Module" id="f26ef10a-6d4d-418f-8ab2-1e2b33501f07.0" configVersion="a45fa2404a1a75fe65ca14bb0946f8d787442719"/>
+		<Metadata name="CommonModule.амг_ОбщегоНазначения" id="cf5d218e-a4be-4719-8cd6-1736e7ee6d7c" configVersion="16fed3ab0bf7edccca5187200d91bf0b7b1f0169"/>
+		<Metadata name="CommonModule.амг_ОбщегоНазначения.Module" id="cf5d218e-a4be-4719-8cd6-1736e7ee6d7c.0" configVersion="b3e083cebe02d0c4a158845b47c993ea3c2f40e7"/>
+		<Metadata name="CommonModule.амг_ОбщиеНаборыДанных" id="f7fc4ee0-48aa-49da-a83a-9a4baaef35f1" configVersion="b6f1fe066678a62f08c85b3a313e81bee648345d"/>
+		<Metadata name="CommonModule.амг_ОбщиеНаборыДанных.Module" id="f7fc4ee0-48aa-49da-a83a-9a4baaef35f1.0" configVersion="f7c4efbd892b108d74cac8b760c2bd9b77640429"/>
+		<Metadata name="CommonModule.амг_ОрганизационнаяСтруктура" id="7b7ee348-7a19-42b6-824c-bd1dd971e8c8" configVersion="54c2c0c87f746301f9aa87ceb41f51f9ef249895"/>
+		<Metadata name="CommonModule.амг_ОрганизационнаяСтруктура.Module" id="7b7ee348-7a19-42b6-824c-bd1dd971e8c8.0" configVersion="846bb997826cf70b3a0b28929e32e84d349189ff"/>
+		<Metadata name="Configuration.ПредставленияЗапросовАМГ" id="7f9d1af1-f41f-46bd-89cf-82810f114666" configVersion="de5118dc169c0d9c99486176b020a4794e686332"/>
+		<Metadata name="InformationRegister.ПодчиненностьСтруктурныхЕдиниц" id="aed384fa-76dd-4fff-9716-0013f12b012c" configVersion="824bc7aa54cf68eeeac0a29e706730b23d4f6949">
+			<Metadata name="InformationRegister.ПодчиненностьСтруктурныхЕдиниц.Dimension.ВышестоящаяСтруктурнаяЕдиница" id="2f279e12-3069-40d3-b336-ef5611cede98"/>
+			<Metadata name="InformationRegister.ПодчиненностьСтруктурныхЕдиниц.Resource.Уровень" id="345b7c3f-ec8a-483d-93f9-c8088f0c7434"/>
+			<Metadata name="InformationRegister.ПодчиненностьСтруктурныхЕдиниц.Dimension.СтруктурнаяЕдиница" id="92040a73-2772-4bd3-9141-7096a8e75b45"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="5d9bfc3a-738d-456b-9f93-678f1543bb8d" configVersion="9cf648e654dcdfea5c70f81f4150c622e1c2b601"/>
+		<Metadata name="Role.амг_ОсновнаяРоль" id="096d52c5-2dcc-443d-a0ca-585a8cb23bbf" configVersion="9bf2ef4be01c8bfd66f25b4bfcaca44774036463"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
